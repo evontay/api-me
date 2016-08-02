@@ -14,7 +14,7 @@ router.use(function (req, res, next) {
 })
 
 // Get home page
-router.get('/', (req, res) => {
+router.get('/profiles', (req, res) => {
   // we only have a single profile in the db, so the first one is fine
   Profile.findOne({}, (err, profile) => {
     if (err) return res.status(404).json({message: 'Profile not found'})
