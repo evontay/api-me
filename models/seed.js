@@ -80,15 +80,18 @@ var data = [
     'documents': [
       {
         'school': 'General Assembly - Singapore',
-        'qualifications': 'Web Development Immersive'
+        'qualifications': 'Web Development Immersive',
+        'period': 'May - Aug 2016'
       },
       {
         'school': 'Nanyang Technological University, School of Art, Design and Media',
-        'qualifications': 'Bachelor of Fine Arts (Visual Communication)'
+        'qualifications': 'Bachelor of Fine Arts (Visual Communication)',
+        'period': '2008 - 2012'
       },
       {
         'school': 'Ngee Ann Polytechnic, School of Film & Media Studies',
-        'qualifications': 'Diploma in Mass Communications'
+        'qualifications': 'Diploma in Mass Communications',
+        'period': '2004 - 2007'
       }
     ]
   },
@@ -98,17 +101,20 @@ var data = [
       {
         'company': 'Fumblies.Co',
         'role': 'Designer, Founder',
-        'description': 'Branding design and strategy, graphic design, web design services for clients of various industries.'
+        'description': 'Branding design and strategy, graphic design, web design services for clients of various industries.',
+        'period': '2014 - current'
       },
       {
         'company': 'TBWA Singapore',
         'role': 'Social Media Content Designer',
-        'description': 'Design and execute social media and web graphics.'
+        'description': 'Design and execute social media and web graphics.',
+        'period': '2014 - 2015'
       },
       {
         'company': 'Page One Publishing',
         'role': 'Designer',
-        'description': 'Book cover design, editorial layout, retail design, merchandise product design.'
+        'description': 'Book cover design, editorial layout, retail design, merchandise product design.',
+        'period': '2012 - 2014'
       }
     ]
   }
