@@ -26,13 +26,15 @@ var data = [
     'model': 'Profile',
     'documents': [
       {
-        'first_name': 'Evon',
-        'last_name': 'Tay',
+        'name': 'Evon Tay',
         'email': 'fumblies@gmail.com',
-        'description': 'Evon is a full-stack web developer with a keen sense of design and web typography.',
-        'socials': [{ name: 'https://github.com/evontay' },
-          { name: 'http://twitter.com/fumblies' }, { name: 'https://sg.linkedin.com/in/evontay'}],
-        'picture': '../public/me.png'
+        'description': 'Evon is a full-stack web developer with a keen sense of design, web typography, and user experience. ',
+        'github': 'https://github.com/evontay',
+        'linkedin': 'https://sg.linkedin.com/in/evontay',
+        'twitter': 'http://twitter.com/fumblies',    
+        'dribbble': 'https://dribbble.com/fumblies',
+        'behance': 'https://www.behance.net/fumblies',
+        'medium': 'https://medium.com/@fumblies'
       }
     ]
   },
@@ -41,27 +43,35 @@ var data = [
     'documents': [
       {
         'title': 'Startups.Sg',
-        'description': 'A cool project for the Singapore startup community.',
-        'link': 'https://evontay.github.io/startups-sg/',
-        'skills': [{name: 'javascript'}, {name: 'node.js'}]
+        'description': 'A collaborative data project for the Singapore startup community.',
+        'github': 'https://github.com/evontay/startups-sg',
+        'website': 'https://evontay.github.io/startups-sg/',
+        'image1': 'startupsg1.png',
+        'image2': 'startupsg2.png'          
       },
       {
         'title': 'Should I bike today?',
         'description': 'Simple SPA that tells the weather using weather api.',
-        'link': 'https://evontay.github.io/should-i-bike-today/',
-        'skills': [{name: 'jquery'}, {name: 'api'}]
+        'github': 'https://github.com/evontay/should-i-bike-today',
+        'website': 'https://evontay.github.io/should-i-bike-today/',
+        'image1': 'sibt1.png',
+        'image2': 'sibt2.png'
       },
       {
         'title': 'Edible Plants Wiki',
         'description': 'Crowdsourced information about edible local plants for non-profit, Foodscape Collective',
-        'link': 'http://plants-wiki.herokuapp.com/',
-        'skills': [{name: 'ruby'}, {name: 'rails'}]
+        'github': 'https://github.com/evontay/plants-wiki',
+        'website': 'http://plants-wiki.herokuapp.com/',
+        'image1': 'plantswiki1.png', 
+        'image2': 'plantswiki2.png'
       },
       {
         'title': 'Morse Game',
         'description': 'A quiz game to help you learn Morse Code through audio and visual signals.',
-        'link': 'https://evontay.github.io/morse-game/',
-        'skills': [{name: 'html+css'}, {name: 'javascript'}]
+        'github': 'https://github.com/evontay/morse-game',
+        'website': 'https://evontay.github.io/morse-game/',
+        'image1': 'morse1.png',
+        'image2': 'morse2.png'
       }
     ]
   },
@@ -69,16 +79,16 @@ var data = [
     'model': 'Education',
     'documents': [
       {
-        'school': 'General Assembly - Web Development Immersive',
-        'subjects': [{name: 'HTML'}, {name: 'CSS'}, {name: 'Javascript'}, {name: 'Ruby'}, {name: 'Rails'}, {name: 'Node.js'}, {name: 'Ember.js'}, {name: 'JSON API'}]
+        'school': 'General Assembly - Singapore',
+        'qualifications': 'Web Development Immersive'
       },
       {
         'school': 'Nanyang Technological University, School of Art, Design and Media',
-        'subjects': [{name: 'Bachelor of Fine Arts (Visual Communication)'}]
+        'qualifications': 'Bachelor of Fine Arts (Visual Communication)'
       },
       {
         'school': 'Ngee Ann Polytechnic, School of Film & Media Studies',
-        'subjects': [{name: 'Diploma in Mass Communications'}]
+        'qualifications': 'Diploma in Mass Communications'
       }
     ]
   },
