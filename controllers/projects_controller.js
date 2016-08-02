@@ -7,7 +7,7 @@ function listProjects (req, res) {
     // rather than return all data which could be huge, we create a simplified array with only a couple of key fields
     const simplifiedList = []
     for (let i = 0; i < projectsArray.length; ++i) {
-      simplifiedList.push({title: projectsArray[i].title, description: projectsArray[i].description, github: projectsArray[i].github, website: projectsArray[i].website, image1: projectsArray[i].image1, image2: projectsArray[i].image2})
+      simplifiedList.push({_id: projectsArray[i].id, title: projectsArray[i].title, description: projectsArray[i].description, github: projectsArray[i].github, website: projectsArray[i].website, image1: projectsArray[i].image1, image2: projectsArray[i].image2})
     }
     res.status(200).json(simplifiedList)
   })

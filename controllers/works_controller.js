@@ -6,7 +6,7 @@ function listWorks (req, res) {
 
     const simplifiedList = []
     for (let i = 0; i < worksArray.length; ++i) {
-      simplifiedList.push({company: worksArray[i].company, role: worksArray[i].role, description: worksArray[i].description})
+      simplifiedList.push({_id: worksArray[i].id, company: worksArray[i].company, role: worksArray[i].role, description: worksArray[i].description})
     }
     res.status(200).json(simplifiedList)
   })

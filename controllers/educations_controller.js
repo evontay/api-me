@@ -7,7 +7,7 @@ function listEducations (req, res) {
     // create a simplified list to return selected information
     const simplifiedList = []
     for (let i = 0; i < educationsArray.length; ++i) {
-      simplifiedList.push({id: educationsArray[i].school, qualifications: educationsArray[i].qualifications})
+      simplifiedList.push({_id: educationsArray[i].id, school: educationsArray[i].school, qualifications: educationsArray[i].qualifications})
     }
     res.status(200).json(simplifiedList)
   })
