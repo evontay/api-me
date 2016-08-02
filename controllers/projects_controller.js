@@ -9,7 +9,7 @@ function listProjects (req, res) {
     for (let i = 0; i < projectsArray.length; ++i) {
       simplifiedList.push({_id: projectsArray[i].id, title: projectsArray[i].title, description: projectsArray[i].description, github: projectsArray[i].github, website: projectsArray[i].website, image1: projectsArray[i].image1, image2: projectsArray[i].image2})
     }
-    res.status(200).json(simplifiedList)
+    res.status(200).json({projects: projectsArray})
   })
 }
 function showProjects (req, res) {
