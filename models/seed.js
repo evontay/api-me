@@ -60,7 +60,7 @@ var data = [
         'description': 'Crowdsourced information about edible local plants for non-profit, Foodscape Collective. Built with Ruby on Rails, HTML, CSS.',
         'github': 'https://github.com/evontay/plants-wiki',
         'website': 'http://plants-wiki.herokuapp.com/',
-        'image': 'https://www.flickr.com/photos/144314926@N03/28632536162/in/photostream/'
+        'image': 'https://c3.staticflickr.com/9/8721/28632536162_44f3fc2d3c_b.jpg'
       },
       {
         'title': 'CURIO MORSE: \nThe Decoding Game',
