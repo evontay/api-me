@@ -63,7 +63,7 @@ var data = [
         'image': 'plantswiki1.png'
       },
       {
-        'title': 'CURIO MORSE: </br>The Decoding Game',
+        'title': 'CURIO MORSE: %odThe Decoding Game',
         'description': 'A quiz game to help people learn Morse Code through audio and visual signals. Built with Javascript, Jquery, HTML, CSS.',
         'github': 'https://github.com/evontay/morse-game',
         'website': 'https://evontay.github.io/morse-game/',
