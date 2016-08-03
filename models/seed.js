@@ -28,7 +28,7 @@ var data = [
       {
         'name': 'Evon Tay',
         'email': 'fumblies@gmail.com',
-        'description': 'Evon is a full-stack web developer with a keen sense of design, web typography, and user experience. ',
+        'description': "Hi! I'm Evon, a full-stack web developer with a keen sense of design, web typography, and user experience. Simply put, I make stuff for people. ",
         'github': 'https://github.com/evontay',
         'linkedin': 'https://sg.linkedin.com/in/evontay',
         'twitter': 'http://twitter.com/fumblies',    
@@ -43,35 +43,31 @@ var data = [
     'documents': [
       {
         'title': 'Startups.Sg',
-        'description': 'A collaborative data project for the Singapore startup community.',
+        'description': 'A collaborative data project for the Singapore startup community. Backend API built with Node.JS + Express. Frontend API build with HTML, CSS, Javascript, Ajax, JQuery, Algolia. A joint effort with my lovely team -- Geng Sng, Lew Li Min, and Winston Mi.',
         'github': 'https://github.com/evontay/startups-sg',
         'website': 'https://evontay.github.io/startups-sg/',
-        'image1': 'startupsg1.png',
-        'image2': 'startupsg2.png'          
+        'image': 'startupsg1.png'          
       },
       {
         'title': 'Should I bike today?',
-        'description': 'Simple SPA that tells the weather using weather api.',
+        'description': 'As a casual bike commuter, I made a simple single page app that advises on the daily weather to decide whether it is a good day for biking. Used the 24-hour weather forecast API from data.gov.sg. Built with Javascript, Ajax, Jquery, HTML, CSS.',
         'github': 'https://github.com/evontay/should-i-bike-today',
         'website': 'https://evontay.github.io/should-i-bike-today/',
-        'image1': 'sibt1.png',
-        'image2': 'sibt2.png'
+        'image': 'sibt1.png'
       },
       {
-        'title': 'Edible Plants Wiki',
-        'description': 'Crowdsourced information about edible local plants for non-profit, Foodscape Collective',
+        'title': 'Edible Plants of Singapore - Wiki',
+        'description': 'Crowdsourced information about edible local plants for non-profit, Foodscape Collective. Built with Ruby on Rails, HTML, CSS.',
         'github': 'https://github.com/evontay/plants-wiki',
         'website': 'http://plants-wiki.herokuapp.com/',
-        'image1': 'plantswiki1.png', 
-        'image2': 'plantswiki2.png'
+        'image': 'plantswiki1.png'
       },
       {
-        'title': 'Morse Game',
-        'description': 'A quiz game to help you learn Morse Code through audio and visual signals.',
+        'title': 'CURIO MORSE: <br>The Decoding Game',
+        'description': 'A quiz game to help people learn Morse Code through audio and visual signals. Built with Javascript, Jquery, HTML, CSS.',
         'github': 'https://github.com/evontay/morse-game',
         'website': 'https://evontay.github.io/morse-game/',
-        'image1': 'morse1.png',
-        'image2': 'morse2.png'
+        'image': 'morse1.png'
       }
     ]
   },
