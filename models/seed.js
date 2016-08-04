@@ -46,28 +46,32 @@ var data = [
         'description': 'A collaborative data project for the Singapore startup community. Backend API built with Node.JS + Express. Frontend API build with HTML, CSS, Javascript, Ajax, JQuery, Algolia. A joint effort with my lovely team -- Geng Sng, Lew Li Min, and Winston Mi.',
         'github': 'https://github.com/evontay/startups-sg',
         'website': 'https://evontay.github.io/startups-sg/',
-        'image': 'https://c6.staticflickr.com/9/8734/28737847565_3035721658_b.jpg'          
+        'image': 'https://c6.staticflickr.com/9/8734/28737847565_3035721658_b.jpg',
+        'index': '0'         
       },
       {
         'title': 'Should I bike today?',
         'description': 'As a casual bike commuter, I made a simple single page app that advises on the daily weather to decide whether it is a good day for biking. Used the 24-hour weather forecast API from data.gov.sg. Built with Javascript, Ajax, Jquery, HTML, CSS.',
         'github': 'https://github.com/evontay/should-i-bike-today',
         'website': 'https://evontay.github.io/should-i-bike-today/',
-        'image': 'https://c5.staticflickr.com/9/8567/28120254444_f90fecf156_b.jpg'
+        'image': 'https://c5.staticflickr.com/9/8567/28120254444_f90fecf156_b.jpg',
+        'index': '1'
       },
       {
         'title': 'Edible Plants of Singapore - Wiki',
         'description': 'Crowdsourced information about edible local plants for non-profit, Foodscape Collective. Built with Ruby on Rails, HTML, CSS.',
         'github': 'https://github.com/evontay/plants-wiki',
         'website': 'http://plants-wiki.herokuapp.com/',
-        'image': 'https://c3.staticflickr.com/9/8721/28632536162_44f3fc2d3c_b.jpg'
+        'image': 'https://c3.staticflickr.com/9/8721/28632536162_44f3fc2d3c_b.jpg',
+        'index': '2'
       },
       {
         'title': 'CURIO MORSE: \nThe Decoding Game',
         'description': 'A quiz game to help people learn Morse Code through audio and visual signals. Built with Javascript, Jquery, HTML, CSS.',
         'github': 'https://github.com/evontay/morse-game',
         'website': 'https://evontay.github.io/morse-game/',
-        'image': 'https://c2.staticflickr.com/8/7587/28737854345_d763c62cd0_b.jpg'
+        'image': 'https://c2.staticflickr.com/8/7587/28737854345_d763c62cd0_b.jpg',
+        'index': '3'
       }
     ]
   },
