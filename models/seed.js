@@ -43,7 +43,7 @@ var data = [
     'documents': [
       {
         'title': 'Startups.Sg',
-        'description': 'A collaborative data project for the Singapore startup community. Backend API built with Node.JS + Express. Frontend API build with HTML, CSS, Javascript, Ajax, JQuery, Algolia. A joint effort with my lovely team -- Geng Sng, Lew Li Min, and Winston Mi.',
+        'description': 'A collaborative data project for the Singapore startup community. Backend API built with Node.JS + Express. Frontend built with HTML, CSS, Javascript, Ajax, JQuery, Algolia. Collaborators -- Geng Sng, Lew Li Min, Winston Mi.',
         'github': 'https://github.com/evontay/startups-sg',
         'website': 'https://evontay.github.io/startups-sg/',
         'image': 'https://c8.staticflickr.com/8/7575/28678304471_a895ba5632_b.jpg',
@@ -51,7 +51,7 @@ var data = [
       },
       {
         'title': 'Should I bike today?',
-        'description': 'As a casual bike commuter, I made a simple single page app that advises on the daily weather to decide whether it is a good day for biking. Used the 24-hour weather forecast API from data.gov.sg. Built with Javascript, Ajax, Jquery, HTML, CSS.',
+        'description': 'A simple app that advises on the daily weather to decide whether it is a good day for biking. Used the 24-hour weather forecast API from data.gov.sg. Built with Ajax, Jquery, HTML, CSS.',
         'github': 'https://github.com/evontay/should-i-bike-today',
         'website': 'https://evontay.github.io/should-i-bike-today/',
         'image': 'https://c3.staticflickr.com/9/8887/28138010994_d078418e71_b.jpg',
