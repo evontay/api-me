@@ -31,7 +31,7 @@ var data = [
         'description': "Hi! I'm Evon, a full-stack web developer with a keen sense of design, web typography, and user experience. Simply put, I make stuff for people. ",
         'github': 'https://github.com/evontay',
         'linkedin': 'https://sg.linkedin.com/in/evontay',
-        'twitter': 'http://twitter.com/fumblies',    
+        'twitter': 'http://twitter.com/fumblies',
         'dribbble': 'https://dribbble.com/fumblies',
         'behance': 'https://www.behance.net/fumblies',
         'medium': 'https://medium.com/@fumblies'
@@ -47,7 +47,7 @@ var data = [
         'github': 'https://github.com/evontay/startups-sg',
         'website': 'https://evontay.github.io/startups-sg/',
         'image': 'https://c8.staticflickr.com/8/7575/28678304471_a895ba5632_b.jpg',
-        'index': '0'         
+        'index': '0'
       },
       {
         'title': 'Should I bike today?',
@@ -66,7 +66,7 @@ var data = [
         'index': '2'
       },
       {
-        'title': 'CURIO MORSE: \nThe Decoding Game',
+        'title': 'CURIO MORSE: The Decoding Game',
         'description': 'A quiz game to help people learn Morse Code through audio and visual signals. Built with Javascript, Jquery, HTML, CSS.',
         'github': 'https://github.com/evontay/morse-game',
         'website': 'https://evontay.github.io/morse-game/',
