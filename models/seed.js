@@ -42,12 +42,20 @@ var data = [
     'model': 'Project',
     'documents': [
       {
+        'title': 'Flashies',
+        'description': 'Flashies allows users to input their study materials on 2-sided flashcards so that they could easily test themselves with prompts and answers. Built with Ruby on Rails, HTML, CSS, and Jquery.',
+        'github': 'https://github.com/evontay/flashies',
+        'website': 'https://github.com/evontay/flashies',
+        'image': 'https://c3.staticflickr.com/9/8171/28396958674_f368492c82_b.jpg',
+        'index': '0'
+      },
+      {
         'title': 'Startups.Sg',
         'description': 'A collaborative data project for the Singapore startup community. Backend API built with Node.JS + Express. Frontend built with HTML, CSS, Javascript, Ajax, JQuery, Algolia. Collaborators -- Geng Sng, Lew Li Min, Winston Mi.',
         'github': 'https://github.com/evontay/startups-sg',
         'website': 'https://evontay.github.io/startups-sg/',
-        'image': 'https://c8.staticflickr.com/8/7575/28678304471_a895ba5632_b.jpg',
-        'index': '0'
+        'image': 'https://c7.staticflickr.com/9/8247/28912259222_a3f7cc1038_b.jpg',
+        'index': '1'
       },
       {
         'title': 'Should I bike today?',
@@ -55,7 +63,7 @@ var data = [
         'github': 'https://github.com/evontay/should-i-bike-today',
         'website': 'https://evontay.github.io/should-i-bike-today/',
         'image': 'https://c3.staticflickr.com/9/8887/28138010994_d078418e71_b.jpg',
-        'index': '1'
+        'index': '2'
       },
       {
         'title': 'Edible Plants of Singapore - Wiki',
@@ -63,7 +71,7 @@ var data = [
         'github': 'https://github.com/evontay/plants-wiki',
         'website': 'http://plants-wiki.herokuapp.com/',
         'image': 'https://c3.staticflickr.com/9/8721/28632536162_44f3fc2d3c_b.jpg',
-        'index': '2'
+        'index': '3'
       },
       {
         'title': 'CURIO MORSE: The Decoding Game',
@@ -71,7 +79,7 @@ var data = [
         'github': 'https://github.com/evontay/morse-game',
         'website': 'https://evontay.github.io/morse-game/',
         'image': 'https://c2.staticflickr.com/8/7587/28737854345_d763c62cd0_b.jpg',
-        'index': '3'
+        'index': '4'
       }
     ]
   },
