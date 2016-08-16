@@ -51,7 +51,7 @@ var data = [
       },
       {
         'title': 'Startups.Sg',
-        'description': 'A collaborative data project for the Singapore startup community. Backend API built with Node.JS + Express. Frontend built with HTML, CSS, Javascript, Ajax, JQuery, Algolia. Collaborators -- Geng Sng, Lew Li Min, Winston Mi.',
+        'description': 'Open source data project for the Singapore startup community. Backend API built with Node.JS + Express. Frontend built with HTML, CSS, Javascript, Ajax, JQuery, Algolia. Collaborators - Geng Sng, Lew Li Min, Winston Mi.',
         'github': 'https://github.com/evontay/startups-sg',
         'website': 'https://evontay.github.io/startups-sg/',
         'image': 'https://c7.staticflickr.com/9/8247/28912259222_a3f7cc1038_b.jpg',
@@ -66,7 +66,7 @@ var data = [
         'index': '2'
       },
       {
-        'title': 'Edible Plants of Singapore - Wiki',
+        'title': 'Edible Plants of Singapore',
         'description': 'Crowdsourced information about edible local plants for non-profit, Foodscape Collective. Built with Ruby on Rails, HTML, CSS.',
         'github': 'https://github.com/evontay/plants-wiki',
         'website': 'http://plants-wiki.herokuapp.com/',
